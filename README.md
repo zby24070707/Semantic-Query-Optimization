@@ -16,11 +16,11 @@
 
 ## 1. LLM-Extended Query Processing Systems.
 
-**Sema-SQL: Extending Relational Queries with Large Language Models.** 
+** [1.1] Sema-SQL: Extending Relational Queries with Large Language Models.** 
 
 *Yin Lin, Tianjing Zeng, Zhongjun Ding, Rong Zhu, Bolin Ding, H. V. Jagadish, Jingren Zhou. Alibaba Group & University of Michigan. arXiv, 2026.* [[paper](https://arxiv.org/abs/2604.23477)]
 
-**Palimpzest: Optimizing AI-Powered Analytics with Declarative Query Processing.** 
+** [1.2] Palimpzest: Optimizing AI-Powered Analytics with Declarative Query Processing.** 
 
 *Chunwei Liu, Matthew Russo, Michael Cafarella, Lei Cao, Peter Baile Chen, Zui Chen, Michael Franklin, Tim Kraska, Samuel Madden, Rana Shahout, Gerardo Vitagliano. MIT, University of Arizona, University of Chicago & Harvard University. CIDR, 2025.* [[paper](https://arxiv.org/abs/2405.14696)] [[code](https://github.com/mitdbg/palimpzest)]
 
@@ -28,7 +28,7 @@
 
 ## 2. Semantic Operator Methods
 
-**Semantic Operators and Their Optimization: Enabling LLM-Based Data Processing with Accuracy Guarantees in LOTUS.** 
+**[2.1] Semantic Operators and Their Optimization: Enabling LLM-Based Data Processing with Accuracy Guarantees in LOTUS.** 
 
 *Liana Patel, Siddharth Jha, Parth Asawa, Melissa Pan, Harshit Gupta, Carlos Guestrin, Matei Zaharia. Stanford University & UC Berkeley. VLDB, 2025.* [[paper](https://www.vldb.org/pvldb/vol18/p4171-patel.pdf)]
 
