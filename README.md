@@ -34,7 +34,5 @@
 
 ---
 
----
-
 > **Contributing**: Please open a PR or Issue to add missing papers.
 > Format: `**Title** [badges] *Authors. Venue, Year.* [[paper](link)] [[code](link)]`
