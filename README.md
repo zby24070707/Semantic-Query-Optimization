@@ -1,6 +1,6 @@
 # Semantic Query Optimization Paper List
 
-> A curated paper list on **Semantic Query Optimization** — covering LLM-extended relational queries, semantic operators, SQL rewriting, and NL2SQL.
+> A curated paper list on **Semantic Query Optimization**.
 >
 > Kindly let us know if we have missed any great papers. PRs are welcome!
 
